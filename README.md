@@ -12,7 +12,7 @@ To start "Pizza Mizza" application:
 * download the whole files
 * run the pizza_welcome.py file
 
-# Project details
+## Project details
 * python3
 * tkinter
 * sqlite3
