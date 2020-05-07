@@ -2,17 +2,17 @@
 ## Description
 This pizza application has some possibilities:
 * Singin and Signup account
-* View menu
-* Adda nd Removing extensions
+* Menu window
+* Adda and Remove extensions
 * Ordering a pizza
 * Admin check orders and income(Admin username: Admin; password: admin) 
 
 ## Setup/Installation Requirements
-To start this application:
-download the whole files
-run the pizza_welcome.py file
+* To start "Pizza Mizza" application:
+* download the whole files
+* run the pizza_welcome.py file
 
 # Project details
-Python3
-Tkinter
-SQLite
+* python3
+* tkinter
+* sqlite3
